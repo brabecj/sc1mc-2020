@@ -1,0 +1,10 @@
+The data in the directory transition_metals/ in the subset of the SC1MC-2020 database. It comprises 
+complexes with piridine ligands. Active spaces of hexameres with more than three pyridines have been 
+extended to 46 orbitals by extension of the virtual part, since otherwise the virtual space was too small.
+
+The data in the directory heterocyclic/ includes a number of heterocyclic organic molecules with less than 
+11 non-hydrogen atoms computed with DFT using B3LYP functional.
+
+The orbitals within active spaces have been localized with Foster-Boys procedure, separately for
+occupied and virtual parts. Single- and two-orbital entropies have been recalculated for the new localized 
+spaces with the bond dimension 1024.
