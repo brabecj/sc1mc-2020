@@ -1,5 +1,5 @@
-# sc1mc-2020
-SC1MC-2020 Database
+# sc1mc-2022
+SC1MC-2022 Database
 The datbase includes sets of di-, tetra-, and octa- artificial molecular complexes. Molecules have been built by combining seven atoms (Cr, Mn, Fe, Co, Ni, Cu, Zn) as cores and nine ligands (Br–, Cl–, F–, S2–, NH3, CO,H2O, NC–, N(CH)5) as surrounders. Ligands are placed at three different distances from core, and no more than two different ligands are allowed within one compound. Electronic structures for all complexes have been solved at Hartree-Fock level with NWChem ab initio software package and Ahlrichs pVDZ basis set. For each complex an active space of 36 orbitals has been defined. Entropies have been estimated with MOLMPS program using 1024 bond dimesion in 16 sweeps.
 
 JSON structure
